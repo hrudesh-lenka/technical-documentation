@@ -1,3 +1,6 @@
+body{
+    margin: 0%;
+}
 #main-doc{
     display: flex;
     flex-direction: column;
@@ -5,8 +8,14 @@
 
 .main-section{
     margin-left: 27%;
+    margin-right: 5%;
     padding-top: 1.5%;
     padding-left: 3%;
+}
+
+.main-section header{
+    font-size: 1.5rem;
+    font-weight: bold;
 }
 
 #navbar{
