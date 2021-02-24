@@ -1,6 +1,11 @@
 body{
     margin: 0%;
 }
+
+#nav-head{
+    margin-left: 5vh;
+}
+
 #main-doc{
     display: flex;
     flex-direction: column;
